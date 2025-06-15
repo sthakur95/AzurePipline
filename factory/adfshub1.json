@@ -1,0 +1,9 @@
+{
+	"name": "adfshub1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f97b91c-25f7-4782-a046-4b2add3a9e2b",
+		"tenantId": "5f124092-3d89-4cba-bf6c-1e1862cd28e4"
+	}
+}
