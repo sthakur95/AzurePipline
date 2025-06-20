@@ -8,23 +8,14 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
-		"SqlServer1_password": {
+		"AzureSqlDatabase1_password": {
 			"value": ""
 		},
-		"AzureSqlDatabase1_password": {
+		"SqlServer1_password": {
 			"value": ""
 		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://sashubham.dfs.core.windows.net/"
-		},
-		"SqlServer1_properties_typeProperties_server": {
-			"value": "LAPTOP-TJDBEUIL"
-		},
-		"SqlServer1_properties_typeProperties_database": {
-			"value": "AdventureWorks2019"
-		},
-		"SqlServer1_properties_typeProperties_userName": {
-			"value": "LAPTOP-TJDBEUIL\\apraj"
 		},
 		"AzureSqlDatabase1_properties_typeProperties_server": {
 			"value": "practicedb122.database.windows.net"
@@ -34,6 +25,15 @@
 		},
 		"AzureSqlDatabase1_properties_typeProperties_userName": {
 			"value": "admin123"
+		},
+		"SqlServer1_properties_typeProperties_server": {
+			"value": "LAPTOP-TJDBEUIL"
+		},
+		"SqlServer1_properties_typeProperties_database": {
+			"value": "AdventureWorks2019"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "LAPTOP-TJDBEUIL\\apraj"
 		}
 	}
 }
