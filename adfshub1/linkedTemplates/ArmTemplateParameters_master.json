@@ -14,6 +14,9 @@
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://sashubham.dfs.core.windows.net/"
 		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0629-042838-5lwyzot9"
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://keyvaulttest179.vault.azure.net/"
 		},
